@@ -46,14 +46,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/stellar/js-stellar-sdk.git"
+    "url": "https://github.com/piconnectdev/js-stellar-sdk.git"
   },
   "author": "Stellar Development Foundation <hello@stellar.org>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/stellar/js-stellar-sdk/issues"
+    "url": "https://github.com/piconnectdev/js-stellar-sdk/issues"
   },
-  "homepage": "https://github.com/stellar/js-stellar-sdk",
+  "homepage": "https://github.com/piconnectdev/js-stellar-sdk",
   "devDependencies": {
     "@kollavarsham/gulp-coveralls": "0.2.8",
     "@stellar/prettier-config": "^1.0.1",
@@ -138,7 +138,7 @@
     "eventsource": "^1.1.1",
     "lodash": "^4.17.21",
     "randombytes": "^2.1.0",
-    "stellar-base": "^8.2.1",
+    "stellar-base": "https://github.com/piconnectdev/js-stellar-base",
     "toml": "^2.3.0",
     "tslib": "^1.10.0",
     "urijs": "^1.19.1",
